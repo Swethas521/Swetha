@@ -1,0 +1,15 @@
+C:\Users\swetha.s\Desktop\Csharp programs\Csharp_programs\bin\Debug\net8.0\Csharp_programs.exe
+C:\Users\swetha.s\Desktop\Csharp programs\Csharp_programs\bin\Debug\net8.0\Csharp_programs.deps.json
+C:\Users\swetha.s\Desktop\Csharp programs\Csharp_programs\bin\Debug\net8.0\Csharp_programs.runtimeconfig.json
+C:\Users\swetha.s\Desktop\Csharp programs\Csharp_programs\bin\Debug\net8.0\Csharp_programs.dll
+C:\Users\swetha.s\Desktop\Csharp programs\Csharp_programs\bin\Debug\net8.0\Csharp_programs.pdb
+C:\Users\swetha.s\Desktop\Csharp programs\Csharp_programs\obj\Debug\net8.0\Csharp_programs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swetha.s\Desktop\Csharp programs\Csharp_programs\obj\Debug\net8.0\Csharp_programs.AssemblyInfoInputs.cache
+C:\Users\swetha.s\Desktop\Csharp programs\Csharp_programs\obj\Debug\net8.0\Csharp_programs.AssemblyInfo.cs
+C:\Users\swetha.s\Desktop\Csharp programs\Csharp_programs\obj\Debug\net8.0\Csharp_programs.csproj.CoreCompileInputs.cache
+C:\Users\swetha.s\Desktop\Csharp programs\Csharp_programs\obj\Debug\net8.0\Csharp_programs.sourcelink.json
+C:\Users\swetha.s\Desktop\Csharp programs\Csharp_programs\obj\Debug\net8.0\Csharp_programs.dll
+C:\Users\swetha.s\Desktop\Csharp programs\Csharp_programs\obj\Debug\net8.0\refint\Csharp_programs.dll
+C:\Users\swetha.s\Desktop\Csharp programs\Csharp_programs\obj\Debug\net8.0\Csharp_programs.pdb
+C:\Users\swetha.s\Desktop\Csharp programs\Csharp_programs\obj\Debug\net8.0\Csharp_programs.genruntimeconfig.cache
+C:\Users\swetha.s\Desktop\Csharp programs\Csharp_programs\obj\Debug\net8.0\ref\Csharp_programs.dll
